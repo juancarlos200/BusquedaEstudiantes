@@ -1,5 +1,5 @@
 import 'nodo.dart';
-import 'estudiante.dart';
+import 'estudiantes.dart';
 
 class ArbolBinarioBusqueda {
 
